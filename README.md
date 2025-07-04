@@ -1,14 +1,14 @@
 # 📦 Under Construction
 
 ## 🚀 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [📖 About](#about)
+- [✨ Features](#features)
+- [🛠️ Installation](#installation)
+- [⚙️ Usage](#usage)
+- [📸 Screenshots](#screenshots)
+- [🧪 Technologies](#technologies)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
 
 ---
 
@@ -20,9 +20,9 @@ This lightweight template is perfect for deploying a temporary “Under Construc
 
 ## ✨ Features
 
-- 🖼️ Includes an AI-generated image to enhance visual appeal
-- 📄 One-page HTML layout—no fluff, just essentials
-- 🗂️ Requires only two files for full functionality
+- 🖼️ Includes an AI-generated image to enhance visual appeal  
+- 📄 One-page HTML layout—no fluff, just essentials  
+- 🗂️ Requires only two files for full functionality  
 
 ---
 
