@@ -31,7 +31,7 @@ This is designed for easy deployment if you just want to put a temporary page on
 
 ```bash
 # Clone the repository
-git clone https://github.com/profgeek/under-construction.git
+# git clone https://github.com/profgeek/under-construction.git
 
 # Navigate into the project folder
-cd under-construction
+# cd under-construction
