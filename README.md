@@ -1,7 +1,6 @@
 # 📦 Under Construction
 
 ## 🚀 Table of Contents
-
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
@@ -15,15 +14,15 @@
 
 ## 📖 About
 
-This is designed for easy deployment if you just want to put a temporary page on a site you are developing
+This lightweight template is perfect for deploying a temporary “Under Construction” page while your site is in development. Fast to set up, easy to customize, and minimal in design.
 
 ---
 
 ## ✨ Features
 
-- Feature 1: Includes AI-generated picture
-- Feature 2: One-page standard html
-- Feature 3: Only two files needed
+- 🖼️ Includes an AI-generated image to enhance visual appeal
+- 📄 One-page HTML layout—no fluff, just essentials
+- 🗂️ Requires only two files for full functionality
 
 ---
 
@@ -31,7 +30,7 @@ This is designed for easy deployment if you just want to put a temporary page on
 
 ```bash
 # Clone the repository
-# git clone https://github.com/profgeek/under-construction.git
+git clone https://github.com/profgeek/under-construction.git
 
 # Navigate into the project folder
-# cd under-construction
+cd under-construction
