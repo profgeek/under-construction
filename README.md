@@ -28,9 +28,10 @@ This lightweight template is perfect for deploying a temporary “Under Construc
 
 ## 🛠️ Installation
 
-```bash
+bash
 # Clone the repository
 git clone https://github.com/profgeek/under-construction.git
 
 # Navigate into the project folder
 cd under-construction
+```
