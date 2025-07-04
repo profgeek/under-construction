@@ -1,9 +1,5 @@
 # 📦 Under Construction
 
-> This project is a simple one-page under construction page.
-
----
-
 ## 🚀 Table of Contents
 
 - [About](#about)
@@ -39,6 +35,3 @@ git clone https://github.com/profgeek/under-construction.git
 
 # Navigate into the project folder
 cd under-construction
-
-# Install dependencies
-# npm install
